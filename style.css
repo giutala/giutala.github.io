@@ -57,8 +57,6 @@ section .box {
 
 
 .about-img {
-    width: 50%;
-    min-width: 300px;
     display: flex;
     justify-content: flex-end;
     align-items: center;
