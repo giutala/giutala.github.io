@@ -128,14 +128,16 @@ img {
 }
 
 .header {
-    background-image: url(./images/header.jpg);
+    background-image: url(images/thisoneee.jpg);
     min-height: 100vh;
     background-color: #111;
     background-position: top right;
-    background-size: cover;
+    background-size: 100%; /* Adjust the percentage as needed */
     background-attachment: fixed;
-
+    background-repeat: no-repeat;
 }
+
+
 
 .header {
     min-height: 100vh;
